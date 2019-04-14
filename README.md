@@ -30,6 +30,3 @@ phrasemachine only supports English, this project can extract noun phrases by ji
  (21, 23),
  (22, 23)]
  
- ## TODO
- 
- 1. coarsemap completion
