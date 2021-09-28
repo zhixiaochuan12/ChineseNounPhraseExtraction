@@ -6,7 +6,7 @@
 
 **key idea**: extract noun phrases by pattern *((A|N)+|(A|N)\*(NP)?(A|N)\*)N*
 
-phrasemachine only supports English, this project can extract noun phrases by jieba.
+phrasemachine only supports English, this project can extract Chinese noun phrases by jieba.
 
 ## Example
 
